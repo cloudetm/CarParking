@@ -7,6 +7,9 @@ var Module = require('meanio').Module;
 
 var MeanUser = new Module('users');
 
+/***
+Test commit
+*/
 /*
  * All MEAN packages require registration
  * Dependency injection is used to define required modules
